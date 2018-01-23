@@ -13,3 +13,11 @@ function johnLennonFacts (facts) {
   }
   return newArray
 }
+
+function iLoveTheBeatles (n) {
+  let newArray = [];
+  do {
+    newArray.push('I love the Beatles!')
+    n++
+  } while ()
+}
